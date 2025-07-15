@@ -63,7 +63,7 @@ const openingTimes = {
 const pageTitle = "Irina Zaueras Hair Design";
 const secondaryTitle = "Lincoln"
 
-const templateName = "Irina-Zaueras-Hair-Design";
+const templateName = "irinazaueras";
 
 const mainBackgroundImage = `url(/${templateName}/irinaBackgroundImage.jpg)`;
 
